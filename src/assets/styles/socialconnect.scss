@@ -1,0 +1,42 @@
+  //new css for content-wrapper
+html .content.app-content .content-area-wrapper {
+  // display: unset !important;
+  position: relative;
+  overflow: hidden;
+}
+.list-group-item.active.card .facebookpagename, h6 {
+  color: #fff;
+}
+
+.circle-bx {
+  width: 50px;
+  height: 41px;
+  text-align: center;
+  border: 1px solid#cccc;
+  padding: 8px 10px;
+  margin-left: 30px;
+  border-radius: 100%;
+  background:#cccc ;
+}
+button.kep-login-facebook.metro {
+  width: 100%;
+}
+.card.p-2.rtt-3 {
+  width: 100%;
+  display: inline-block;
+}
+[dir] button.composebtn.btn.btn-success {
+  padding: 10px 30px;
+}
+
+button.dropdownworkspacemain.dropdown-item {
+  width: 100%;
+}
+.comment.textbox.card-body {
+  overflow-y: scroll;
+  height: 250px;
+}
+.comments {
+  margin-left: 22px;
+  margin-bottom: 0px;
+}
